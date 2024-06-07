@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-        🔑🛡️ KeycloakScanner - Keycloak Security Scanner 🛡️🔑
+        🔑🛡️ KeycloakScanner - Keycloak Security Scanner
     <br>
     <br>
 </h1>
