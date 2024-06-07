@@ -7,7 +7,7 @@
 
 KeycloakScanner is a simple Python script designed to scan for version and security vulnerabilities in Keycloak.
 
-![alt text](images/keycloakscanner.png)
+![alt text](images/KeycloakScanner.png)
 
 ## Description 📝
 

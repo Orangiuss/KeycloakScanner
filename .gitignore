@@ -1,1 +1,3 @@
 /test.txt
+__pycache__/
+urls.txt
