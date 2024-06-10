@@ -53,3 +53,9 @@ def cve_2022_4137_check(url,version=None, realm="master", verbose=False):
                     if '<a href="javascript&colon;alert(document.domain)" rel="nofollow">Return to application</a>' in r.text:
                         return True
     return False
+
+# CVE-2020-27838 Check with Keycloak version and realm name
+def cve_2020_27838_check(url,version=None, realm="master", verbose=False):
+    # A FAIRE
+    # https://github.com/Cappricio-Securities/CVE-2020-27838/tree/main
+    pass
